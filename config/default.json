@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Ramki_9:pandian5!@cluster0.2zke2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "happyworld"
+}
